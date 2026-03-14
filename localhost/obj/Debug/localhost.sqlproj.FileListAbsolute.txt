@@ -1,0 +1,5 @@
+c:\workspace\ClientesApp\localhost\bin\Debug\localhost.dacpac
+c:\workspace\ClientesApp\localhost\obj\Debug\Model.xml
+c:\workspace\ClientesApp\localhost\obj\Debug\refactor.xml
+c:\workspace\ClientesApp\localhost\obj\Debug\postdeploy.sql
+c:\workspace\ClientesApp\localhost\obj\Debug\predeploy.sql
